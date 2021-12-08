@@ -27,6 +27,16 @@ android {
     }
 }
 
+//task deleteJar(type: Delete){
+//    delete('libs/jars/flashcallverificationsdk.jar')
+//}
+//
+//task createJar(type: Copy){
+//    from('build/intermediates/bundles/release/')
+//    into('libs/jars/')
+//    rename ('classes.jar', 'flashcallverificationsdk.jar')
+//}
+
 dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.4.0'
