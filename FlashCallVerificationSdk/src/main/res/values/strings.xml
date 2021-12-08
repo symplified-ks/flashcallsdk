@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kalsym_verification">Enter your Mobile Number</string>
+    <string name="phone">Mobile Number</string>
+    <string name="verify">Verify</string>
+    <string name="label_below_number">Call will be received on this mobile number.</string>
+    <string name="kalsym_title">KALSYM</string>
+    <string name="confirmation_text">Is this mobile number correct ?</string>
+    <string name="verification_successful">Verification Successful !</string>
+    <string name="okay">Okay</string>
+</resources>
